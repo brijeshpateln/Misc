@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "187527357537",
+    "project_id": "buzz-cc951"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187527357537:android:8624ddbc692a301c",
+        "android_client_info": {
+          "package_name": "com.binc.buzz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187527357537-1foull7jg0rt2j1sk3ie1uotfjtkrskq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.binc.buzz",
+            "certificate_hash": "CC0C07598EF6AE1B042AB621E306232FEA6C9042"
+          }
+        },
+        {
+          "client_id": "187527357537-fen8emfilh3vj1n9223e1e7u6o06dh8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH8T4LgqKcgq4J7d4r_wDdmdmSPvW9zp4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
